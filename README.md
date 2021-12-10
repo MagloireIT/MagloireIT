@@ -1,4 +1,4 @@
-- Salut je suis MDB, je suis un étudiant en développement web
+- Salut je suis M4GL01R3, je suis un étudiant en développement web
 - J'adore ca et je m'amuse en créant tout et n'importe quoi.
 
 <!---
