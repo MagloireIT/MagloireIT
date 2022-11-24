@@ -1,5 +1,4 @@
-- Salut je suis M4GL01R3, je suis un étudiant en développement web
-- J'adore ca et je m'amuse en créant tout et n'importe quoi.
+Jeune designer UI 
 
 <!---
 MagloireIT/MagloireIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
